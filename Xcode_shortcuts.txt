@@ -1,0 +1,5 @@
+1- To get the Library of Objects: 
+	Command + Shift + l 
+2- TO get Assistant Editor (swift code page): 
+	Command + Option + Return 
+3- 
