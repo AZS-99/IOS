@@ -1,27 +1,42 @@
 
 {
     "student": "Adam Saher",
-    "count": 4,
+    "count": 7,
     "data": [
         {
-            "id": 523,
+            "id": 1,
             "code": "MAP523",
             "name": "IOS"
         },
         {
-            "id": 524,
+            "id": 2,
             "code": "MAP524",
             "name": "Android"
         },
         {
-            "id": 422,
+            "id": 3,
             "code": "WEB422",
             "name": "Web Development"
         },
         {
-            "id": 425,
-            "code": "WEB522",
-            "name": "Web Development Ultimate"
+            "id": 4,
+            "code": "DSA555",
+            "name": "Data Structure and Algorithm"
+        },
+        {
+            "id": 5,
+            "code": "OOP345",
+            "name": "Object-Oriented Software Development using C++"
+        },
+        {
+            "id": 6,
+            "code": "CAN104",
+            "name": "First Nations People"
+        },
+        {
+            "id": 7,
+            "code": "SYS366",
+            "name": "Requirements Gathering Using OO Models"
         }
     ]
 }
